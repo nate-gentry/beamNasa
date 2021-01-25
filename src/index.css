@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#nasaCard{
+  margin: 5px;
+  padding: 5px;
+}
+#Criteria {
+  list-style: none;
+  text-align: left;
+}
